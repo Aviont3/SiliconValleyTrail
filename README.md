@@ -1,8 +1,8 @@
 # Silicon Valley Trail
 
 A text-based startup journey game inspired by Oregon Trail. Travel from New York to San Francisco through key tech hubs, make strategic decisions, manage your team and resources, and build a successful startup unicorn before time runs out.
-
----
+[
+](https://youtu.be/3n0zWK8pS5E)---
 
 ## Quick Start
 
